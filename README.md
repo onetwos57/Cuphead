@@ -229,4 +229,4 @@ Cuphead is available as a complete free version for Windows, with all features a
 Don't miss out on the chance to experience Cuphead! Download now and dive into this visually stunning platform adventure.
 
 ---
-**Last updated:** 2026-10-14 23:38:43 UTC
+**Last updated:** 2026-10-15 03:03:28 UTC
